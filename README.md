@@ -1,8 +1,17 @@
 <h1 align = "center"> Hello Yoma here 👋 💻 </h1>
+<h3 align="center">I am a highly motivated and results-oriented Data Scientist/Machine Learning Engineer that is intrested in challenging areas where I can apply my skills and contribute to impactful projects. I have a strong analytical and problem-solving background. I am also a continuous learner with a strong desire to contribute to the advancement of data science and machine learning.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ugbovoyoma&label=Profile%20views&color=0e75b6&style=flat" alt="ugbovoyoma" /> </p>
+
+<p align="left"> <a href="https://twitter.com/ugbovoyoma" target="blank"><img src="https://img.shields.io/twitter/follow/ugbovoyoma?logo=twitter&style=for-the-badge" alt="ugbovoyoma" /></a> </p>
+
 
 *  I am constantly working on my online portfolio while improving my skills in Data Science, Machine learning and Deep Learning.👀
 *  I am currently learning Data Science, Machine learning and Deep learning using Python.🌱 
 *  I am looking to collaborate on Data Science and Machine learning projects.💞️
+*  Ask me about **Data Science, Machine Learing, Football and Music** 💬
+*  How to reach me **ugbovoyoma@gmail.com** 📫
+*  Fun fact **I think Java is cute** ⚡
 
 
 
