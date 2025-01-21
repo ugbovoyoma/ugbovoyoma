@@ -1,4 +1,4 @@
-<h1 align = "center"> Hello Yoma here 👋 💻 </h1>
+<h1 align = "center"> Hello, Yoma here 👋 💻 </h1>
 <h3 align="center">I am a highly motivated and results-oriented Data Scientist/Machine Learning Engineer that is intrested in challenging areas where I can apply my skills and contribute to impactful projects. I have a strong analytical and problem-solving background. I am also a continuous learner with a strong desire to contribute to the advancement of data science and machine learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ugbovoyoma&label=Profile%20views&color=0e75b6&style=flat" alt="ugbovoyoma" /> </p>
