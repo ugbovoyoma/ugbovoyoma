@@ -9,7 +9,7 @@
 *  I am constantly working on my online portfolio while improving my skills in Data Science, Machine learning and Deep Learning.👀
 *  I am currently learning Data Science, Machine learning and Deep learning using Python.🌱 
 *  I am looking to collaborate on Data Science and Machine learning projects.💞️
-*  Ask me about **Data Science, Machine Learing, Football and Music** 💬
+*  Ask me about **Data Science, Machine Learing, AI Research, Football and Music** 💬
 *  How to reach me **ugbovoyoma@gmail.com** 📫
 *  Fun fact **I think Java is cute** ⚡
 
