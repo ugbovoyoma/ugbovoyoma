@@ -1,5 +1,5 @@
 <h1 align = "center"> Hello, Yoma here 👋 💻 </h1>
-<h3 align="center"> I'm an AI & Machine Learning Engineer focused on LLM-powered applications, RAG pipelines, and end-to-end MLOps. Hands-on with LLM fine-tuning (LoRA/QLoRA), optimisation, and scalable deployment. Interested in multimodal AI, AI infrastructure, and AI for cybersecurity. </h3>
+<h3 align="center"> I'm an AI & Machine Learning Engineer focused on LLM-powered applications, RAG pipelines, and end-to-end MLOps. I have hands-on with LLM fine-tuning (LoRA/QLoRA), optimisation, and scalable deployment. I'm iInterested in multimodal AI, AI infrastructure, and AI for cybersecurity. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ugbovoyoma&label=Profile%20views&color=0e75b6&style=flat" alt="ugbovoyoma" /> </p>
 
