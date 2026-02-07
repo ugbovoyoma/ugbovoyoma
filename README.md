@@ -1,17 +1,21 @@
 <h1 align = "center"> Hello, Yoma here 👋 💻 </h1>
-<h3 align="center">I am a highly motivated and results-oriented Data Scientist/Machine Learning Engineer that is intrested in challenging areas where I can apply my skills and contribute to impactful projects. I have a strong analytical and problem-solving background. I am also a continuous learner with a strong desire to contribute to the advancement of data science and machine learning.</h3>
+<h3 align="center"> I’m an AI & Machine Learning Engineer with hands-on experience building and optimising LLM-powered applications, machine learning models, and end-to-end MLOps workflows. I’m passionate about transforming real-world problems into scalable AI solutions. I work extensively on LLM customisation and optimisation, including continued pre-training, post-training techniques (LoRA/QLoRA), Retrieval-Augmented Generation (RAG) pipelines, and advanced prompt engineering. I enjoy improving model quality, reducing inference latency, optimising GPU usage, and deploying scalable AI services in real-world environments.
+
+My technical toolkit includes Python, PyTorch, TensorFlow, HuggingFace, FastAPI, Docker, GitHub Actions, Weights & Biases , Runpod, Postgres, and AWS, with experience in quantization, GPU optimisation, and containerised deployments.
+
+I’m deeply interested in Multimodal AI, MLOps, AI infrastructure, and AI for Cybersecurity, and I love working at the intersection of research, engineering, and real-world problem-solving. If you’d like to connect about LLMs in general (pre and post-training), RAG, MLOps, or cybersecurity-driven AI, feel free to reach out. I’m always open to meaningful conversations and opportunities</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ugbovoyoma&label=Profile%20views&color=0e75b6&style=flat" alt="ugbovoyoma" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ugbovoyoma" target="blank"><img src="https://img.shields.io/twitter/follow/ugbovoyoma?logo=twitter&style=for-the-badge" alt="ugbovoyoma" /></a> </p>
 
 
-*  I am constantly working on my online portfolio while improving my skills in Data Science, Machine learning and Deep Learning.👀
-*  I am currently learning Data Science, Machine learning and Deep learning using Python.🌱 
-*  I am looking to collaborate on Data Science and Machine learning projects.💞️
-*  Ask me about **Data Science, Machine Learing, AI Research, Football and Music** 💬
+*  I am constantly working on my online portfolio while improving my skills in AI, and Machine Learning.👀
+*  I am currently building AI and Machine Learning stuffs using Python.🌱 
+*  I am looking to collaborate on AI, Data Science and Machine learning projects.💞️
+*  Ask me about **Data Science, Machine Learing, AI Research, Cybersecurity, Football and Music** 💬
 *  How to reach me **ugbovoyoma@gmail.com** 📫
-*  Fun fact **I think Java is cute** ⚡
+*  Fun fact **I think reading research papers is cute** ⚡
 
 
 
