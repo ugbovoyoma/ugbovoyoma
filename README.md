@@ -1,55 +1,97 @@
-<h1 align = "center"> Hello, Yoma here 👋 💻 </h1>
-<h3 align="center"> I'm an AI & Machine Learning Engineer focused on LLM-powered applications, RAG pipelines, and end-to-end MLOps. I have hands-on experience with LLM fine-tuning (LoRA/QLoRA), optimisation, and scalable deployment. I'm interested in multimodal AI, AI infrastructure, and AI for cybersecurity. </h3>
+<h1 align="center">Hello, Yoma here 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ugbovoyoma&label=Profile%20views&color=0e75b6&style=flat" alt="ugbovoyoma" /> </p>
+<h3 align="center">AI & Machine Learning Engineer — LLM-powered applications, RAG pipelines, and end-to-end MLOps</h3>
 
-<p align="left"> <a href="https://twitter.com/ugbovoyoma" target="blank"><img src="https://img.shields.io/twitter/follow/ugbovoyoma?logo=twitter&style=for-the-badge" alt="ugbovoyoma" /></a> </p>
+<p align="center">
+  Hands-on with LLM fine-tuning (LoRA/QLoRA), optimisation, and scalable deployment.<br>
+  Interested in multimodal AI, AI infrastructure, and AI for cybersecurity.
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ugbovoyoma&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-*  I am constantly working on my online portfolio while improving my skills in AI, and Machine Learning.👀
-*  I am currently building AI and Machine Learning stuffs using Python.🌱 
-*  I am looking to collaborate on AI, Data Science and Machine learning projects.💞️
-*  Ask me about **Data Science, Machine Learing, AI Research, Cybersecurity, Football and Music** 💬
-*  How to reach me **ugbovoyoma@gmail.com** 📫
-*  Fun fact **I think reading research papers is cute** ⚡
+<p align="center">
+  <a href="https://twitter.com/ugbovoyoma" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/ugbovoyoma?logo=twitter&style=for-the-badge" alt="twitter follow" />
+  </a>
+</p>
 
+---
 
+### About
 
-<h3>Email</h3>
+- Building AI and Machine Learning systems with Python.
+- Open to collaborating on AI, Data Science, and Machine Learning projects.
+- Ask me about **Data Science, Machine Learning, AI Research, Cybersecurity, Football, and Music**.
+- Reach me at **ugbovoyoma@gmail.com**
+- Fun fact: I think reading research papers is time well spent.
 
-[![Mail Badge](https://img.shields.io/badge/Ugbovoyoma-D14836?style=for-the-badge&logo=gmail&logoColor=white
-)](mailto:ugbovoyoma@gmail.com)
+---
 
-<h3>Linkedin</h3>
+### Connect
 
-[![Linkedin Badge](https://img.shields.io/badge/Ugbovo-Yoma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ugbovo-yoma-336971106)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ugbovoyoma@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ugbovo-yoma-336971106)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ugbovoyoma)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://ugbovoyoma.github.io/)
 
-<h3>Twitter</h3>
+---
 
-[![Twitter Badge](https://img.shields.io/badge/Ugbovo-Yoma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.x.com/in/ugbovo-yoma-336971106)
+### Skills
 
-<h3>Skills</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=$sql,java,r,py&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,sql,r,java,pytorch,tensorflow,sklearn,docker,git,linux&theme=dark)](https://skillicons.dev)
 [![SQL](https://img.shields.io/badge/SQL-Proficient-brightgreen.svg)](https://www.w3schools.com/sql/)
 
-<h3>Tools I frequently use</h3>
-<div >
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="Jupyter Notebook" title="Jupyter Notebook"/></code>
+**Tools I frequently use**
+
+<div>
+  <code><img width="48" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
+  <code><img width="48" src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="Jupyter Notebook" title="Jupyter Notebook"/></code>
 </div>
 
-<br>
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ugbovoyoma&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ugbovoyoma&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+## GitHub Analytics
 
-<h3>Website</h3>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ugbovoyoma&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ugbovoyoma&layout=compact&langs_count=6&hide_border=true&theme=tokyonight&hide=jupyter%20notebook,makefile" alt="Top languages" />
+</div>
 
- [![Website Badge](https://img.shields.io/badge/Ugbovoyoma-000000?style=for-the-badge&logo=About.me&logoColor=white
-)](https://Ugbovoyoma.github.io/) 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ugbovoyoma&theme=tokyonight" alt="Profile summary" width="100%" />
+</div>
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ugbovoyoma&theme=tokyonight" alt="Stats" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ugbovoyoma&theme=tokyonight&utcOffset=1" alt="Productive time" width="49%" />
+</div>
+
+### Language Distribution
+
+<div align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ugbovoyoma&layout=donut&langs_count=8&theme=tokyonight&hide=jupyter%20notebook,makefile&hide_border=true" alt="Language distribution" />
+</div>
+
+### Streak
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Ugbovoyoma&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</div>
+
+### Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ugbovoyoma&theme=tokyonight&no-frame=true&margin-w=4&row=1" alt="GitHub trophies" />
+</div>
+
+### Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ugbovoyoma&theme=tokyo-night&hide_border=true" alt="Contribution graph" />
+</div>
 
 <!---
-ugbovoyoma/ugbovoyoma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+ugbovoyoma/ugbovoyoma is a special repository because its README.md appears on your GitHub profile.
 --->
