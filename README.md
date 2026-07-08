@@ -1,6 +1,6 @@
 <h1 align="center">Hello, Yoma here 👋</h1>
 
-<h3 align="center">I'm an AI & Machine Learning Engineer. I build LLM-powered applications, RAG pipelines, and end-to-end MLOps</h3>
+<h3 align="center">I'm an <b>AI & Machine Learning Engineer</b>. I build LLM-powered applications, RAG pipelines, and end-to-end MLOps</h3>
 
 <p align="center">
   I have hands-on experience with LLM pre- and post-training (LoRA/QLoRA), optimisation, and scalable deployment.<br>
