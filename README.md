@@ -8,13 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ugbovoyoma&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
-<p align="center">
-  <a href="https://twitter.com/ugbovoyoma" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/ugbovoyoma?logo=twitter&style=for-the-badge" alt="twitter follow" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Ugbovoyoma&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
