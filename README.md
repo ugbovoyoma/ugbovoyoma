@@ -1,10 +1,10 @@
 <h1 align="center">Hello, Yoma here 👋</h1>
 
-<h3 align="center">AI & Machine Learning Engineer — LLM-powered applications, RAG pipelines, and end-to-end MLOps</h3>
+<h3 align="center">I'm an AI & Machine Learning Engineer. I build LLM-powered applications, RAG pipelines, and end-to-end MLOps</h3>
 
 <p align="center">
-  Hands-on with LLM fine-tuning (LoRA/QLoRA), optimisation, and scalable deployment.<br>
-  Interested in multimodal AI, AI infrastructure, and AI for cybersecurity.
+  I have hands-on experience with LLM pre- and post-training (LoRA/QLoRA), optimisation, and scalable deployment.<br>
+  I'm interested in multimodal AI, AI infrastructure, and AI for cybersecurity.
 </p>
 
 <p align="center">
