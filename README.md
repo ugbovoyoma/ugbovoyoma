@@ -46,12 +46,6 @@
 
 ---
 
-## GitHub Analytics
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Ugbovoyoma/Ugbovoyoma/main/metrics.svg" alt="GitHub metrics" width="100%" />
-</div>
-
 ### Streak
 
 <div align="center">
