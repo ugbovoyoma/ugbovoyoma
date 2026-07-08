@@ -80,12 +80,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Ugbovoyoma&theme=tokyonight&no-frame=true&margin-w=4&row=1" alt="GitHub trophies" />
 </div>
 
-### Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ugbovoyoma&theme=tokyo-night&hide_border=true" alt="Contribution graph" />
-</div>
-
 <!---
 ugbovoyoma/ugbovoyoma is a special repository because its README.md appears on your GitHub profile.
 --->
