@@ -49,35 +49,13 @@
 ## GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ugbovoyoma&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ugbovoyoma&layout=compact&langs_count=6&hide_border=true&theme=tokyonight&hide=jupyter%20notebook,makefile" alt="Top languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ugbovoyoma&theme=tokyonight" alt="Profile summary" width="100%" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ugbovoyoma&theme=tokyonight" alt="Stats" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ugbovoyoma&theme=tokyonight&utcOffset=1" alt="Productive time" width="49%" />
-</div>
-
-### Language Distribution
-
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ugbovoyoma&layout=donut&langs_count=8&theme=tokyonight&hide=jupyter%20notebook,makefile&hide_border=true" alt="Language distribution" />
+  <img src="https://raw.githubusercontent.com/Ugbovoyoma/Ugbovoyoma/main/metrics.svg" alt="GitHub metrics" width="100%" />
 </div>
 
 ### Streak
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Ugbovoyoma&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</div>
-
-### Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ugbovoyoma&theme=tokyonight&no-frame=true&margin-w=4&row=1" alt="GitHub trophies" />
 </div>
 
 <!---
