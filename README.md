@@ -34,7 +34,7 @@
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=py,sql,r,java,pytorch,tensorflow,sklearn,docker,git,linux&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,sql,r,pytorch,tensorflow,sklearn,docker,git,linux&theme=dark)](https://skillicons.dev)
 [![SQL](https://img.shields.io/badge/SQL-Proficient-brightgreen.svg)](https://www.w3schools.com/sql/)
 
 **Tools I frequently use**
